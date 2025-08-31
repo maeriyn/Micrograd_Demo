@@ -1,0 +1,1 @@
+Manual workthrough of the micrograd tutorial and introduction to back probagation by Andrej Kaparthy
